@@ -1,2 +1,2 @@
 # Travela
-[Project Specification Document](Travela/Project%20Specification%20Document.pdf)
+[Project Specification Document](Project%20Specification%20Document.pdf)
