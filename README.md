@@ -1,7 +1,7 @@
 # Travela
 [Project Specification Document](Project%20Specification%20Document.pdf)<br>
 [Analysis and Requirement Report](Analysis_and_Requirement_Report.pdf)<br>
-[Detailed Design Report](Detailed Design Report cs492.docx.pdf)<br>
+[Detailed Design Report](Detailed%20Design%20Report%20cs492.docx.pdf)<br>
 <br>
 [Efe Ertürk Logbook](https://efeerturk1.github.io/)<br>
 [Yağmur Eryılmaz Logbook](https://docs.google.com/document/d/1DdaiWISRHO-f57qFxrof2qRLGv4KRX70In28OXxSrIc/edit?usp=sharing)<br>
