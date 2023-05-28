@@ -3,6 +3,7 @@
 [Analysis and Requirement Report](Analysis_and_Requirement_Report.pdf)<br>
 [Detailed Design Report](Detailed%20Design%20Report%20cs492.docx.pdf)<br>
 [Final Report](T2307_FinalReport.pdf)<br>
+[Final Presentation](travela-presentation%20final.pdf)<br>
 [User Manual](travela_userManual.pdf)<br>
 <br>
 [Efe Ertürk Logbook](https://efeerturk1.github.io/)<br>
